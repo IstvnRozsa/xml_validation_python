@@ -13,6 +13,7 @@ def validate(xml_root:str, xsd_root:str):
         print("-"*35)
         cprint("Minden rendben ugy nez ki", "green", "on_green")
         print("-"*35)
+        return root
     except etree.XMLSyntaxError as error_text:
         error = colored("Hiba", "yellow")
         print("-"*20 +  error + "-"*20)
