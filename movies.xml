@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Forrás: http://www.imdb.com/ -->
+<movies>
+
+	<movie id="0070047">
+		<title>The Exorcist</title>
+		<year>1973</year>
+		<genre>horror</genre>
+		<rating>8.1</rating>
+		<votes>400575</votes>
+	</movie>
+
+	<movie id="0070047">
+		<title>The Exorcist</title>
+		<year>1973</year>
+	</movie>
+
+	<movie id="0054215">
+		<title>Psycho</title>
+		<year>1960</year>
+		<genre>horror</genre>
+		<rating>8.5</rating>
+		<votes>663331</votes>
+	</movie>
+
+	<movie id="0080684">
+		<title>Star Wars: Episode V - The Empire Strikes Back</title>
+		<year>1980</year>
+		<genre>sci-fi</genre>
+		<rating>8.7</rating>
+		<votes>1274437</votes>
+	</movie>
+
+	<movie id="0468569">
+		<title>The Dark Knight</title>
+		<year>2008</year>
+		<genre>action</genre>
+		<rating>9.0</rating>
+		<votes>2606981</votes>
+	</movie>
+
+	<movie id="0081505">
+		<title>The Shining</title>
+		<year>1980</year>
+		<genre>horror</genre>
+		<rating>8.4</rating>
+		<votes>1003589</votes>
+	</movie>
+
+	<movie id="0078748">
+		<title>Alien</title>
+		<year>1979</year>
+		<genre>sci-fi</genre>
+		<rating>8.5</rating>
+		<votes>869318</votes>
+	</movie>
+
+	<movie id="0063522">
+		<title>Rosemary's Baby</title>
+		<year>1968</year>
+		<genre>horror</genre>
+		<rating>8.0</rating>
+		<votes>214510</votes>
+	</movie>
+
+	<movie id="0071853">
+		<title>Monty Python and the Holy Grail</title>
+		<year>1975</year>
+		<genre>comedy</genre>
+		<rating>8.2</rating>
+		<votes>537661</votes>
+	</movie>
+
+	<movie id="0062622">
+		<title>2001: A Space Odyssey</title>
+		<year>1968</year>
+		<genre>sci-fi</genre>
+		<rating>8.3</rating>
+		<votes>661260</votes>
+	</movie>
+
+	<movie id="0103064">
+		<title>Terminator 2: Judgment Day</title>
+		<year>1991</year>
+		<genre>sci-fi</genre>
+		<rating>8.6</rating>
+		<votes>1084621</votes>
+	</movie>
+
+	<movie id="2488496">
+		<title>Rogue One</title>
+		<year>2016</year>
+		<genre>sci-fi</genre>
+		<rating>7.8</rating>
+		<votes>921708</votes>
+	</movie>
+
+	<movie id="1074638">
+		<title>Skyfall</title>
+		<year>2012</year>
+		<genre>action</genre>
+		<rating>7.8</rating>
+		<votes>692229</votes>
+	</movie>
+
+</movies>
